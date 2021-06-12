@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Keshav!](https://keshavcodex.github.io) 
 
 <a href="https://www.linkedin.com/in/keshavcodex/">
-  <img align="left" width="24px" src="https://img.flaticon.com/icons/png/512/174/174857.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF"  />
+  <img align="left" width="24px" src="https://lh3.googleusercontent.com/proxy/NdlkyW-C15Xa1bE65Dbr0sW6qu9aJJc0vGNXAAnonq20NbS7aNSKqKRgbVO9UIrhkgM8UCeD_9jpmiTE6ixheZZH0fVrZr6MVR95HqQwUkpy0XLPzivRN46m5XydXfRGnIAlXGbPh6G1ZYg"  />
 </a>
 <a href="https://twitter.com/keshavcodex">
   <img align="left" width="26px" src="https://www.creativefreedom.co.uk/wp-content/uploads/2017/06/Twitter-featured.png" />
