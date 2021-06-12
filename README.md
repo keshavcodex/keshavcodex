@@ -16,7 +16,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & i currently pursuing B.Tech in Information Technology </br>
+🎓 I’m an Open-Source enthusiast & i am currently pursuing B.Tech in Information Technology </br>
 👨‍💻 I enjoy learning new things. </br>
 
 ![Keshav's github stats](https://github-readme-stats.vercel.app/api?username=keshavcodex&show_icons=true&hide_border=true)
