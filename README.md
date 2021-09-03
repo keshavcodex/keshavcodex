@@ -20,7 +20,8 @@
 👨‍💻 I enjoy learning new things. </br>
 
 ![Keshav's github stats](https://github-readme-stats.vercel.app/api?username=keshavcodex&show_icons=true)
-![Top used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavcodex&layout=compact)
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=keshavcodex&layout=compact)
+<a href="https://wakatime.com/@keshavcodex">
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=keshavcodex&layout=compact" />
+</a>
 <br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=keshavcodex.keshavcodex)
