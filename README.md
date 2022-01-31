@@ -21,7 +21,7 @@
 
 ![Keshav's github stats](https://github-readme-stats.vercel.app/api?username=keshavcodex&show_icons=true)
 <a href="https://wakatime.com/@keshavcodex" target="_blank">
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=keshavcodex&layout=compact" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshavcodex&layout=compact" />
 </a>
 <br>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=keshavcodex.keshavcodex)
