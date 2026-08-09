@@ -1,24 +1,19 @@
-## Hey 👋, I'm [Keshav!](https://keshavcodex.github.io) 
-
-<a href="https://www.linkedin.com/in/keshavcodex/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
-</a>
-<a href="https://twitter.com/keshavcodex">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:keshavcodex@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="http://dev.to/keshavcodex">
-  <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" />
-</a>
-
-<br />
+## Hey 👋, I'm [Keshav!](https://keshavcodex.github.io)
 
 ### About Me 🚀
-🎓 I’m an Open-Source enthusiast & i am currently pursuing B.Tech in Information Technology </br>
-👨‍💻 I enjoy learning new things. </br>
 
-![Keshav's github stats](https://github-readme-stats.vercel.app/api?username=keshavcodex&show_icons=true)
-<br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=keshavcodex.keshavcodex)
+👨‍💻 **Software Engineer at TCS**, passionate about building scalable and reliable software.
+
+☁️ Interested in **Backend Engineering, Cloud Native, Distributed Systems, and AI/GenAI**.
+
+🌱 Currently exploring **Java, Spring Boot, Kubernetes, and Open Source**.
+
+🧠 I enjoy solving challenging problems, understanding systems deeply, and continuously improving my engineering skills.
+
+🚀 Always learning, building, and looking for opportunities to contribute to meaningful projects.
+
+### Connect with Me 🤝
+
+* 💼 LinkedIn: [linkedin.com/in/keshavcodex](https://www.linkedin.com/in/keshavcodex/)
+* 🌐 Website: [keshavcodex.github.io](https://keshavcodex.github.io)
+* 📧 Email: [keshavcodex@gmail.com](mailto:keshavcodex@gmail.com)
